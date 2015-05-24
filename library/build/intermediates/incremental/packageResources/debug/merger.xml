@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res"><file name="btn_press" path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\drawable\btn_press.xml" qualifiers="" type="drawable"/><file name="btn_selector" path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\drawable\btn_selector.xml" qualifiers="" type="drawable"/><file name="btn_unpress" path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\drawable\btn_unpress.xml" qualifiers="" type="drawable"/><file name="dialog_bg" path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\drawable\dialog_bg.xml" qualifiers="" type="drawable"/><file name="dialog_layout" path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\layout\dialog_layout.xml" qualifiers="" type="layout"/><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values\colors.xml" qualifiers=""><color name="msg_color">#FFFFFFFF</color><color name="text_color">#FFFFFF</color><color name="btn_unpress_color">#22000000</color><color name="btn_press_color">#66000000</color><color name="divider_color">#11000000</color><color name="dialog_bg">#ffe74c3c</color></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values\dimens.xml" qualifiers=""><dimen name="dialog_padding">25dp</dimen></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values\styles.xml" qualifiers=""><style name="dialog_untran" parent="dialog_tran">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="dialog_tran" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style><style name="dialog_btn">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/btn_selector</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+    </style><style name="DialogWindowTitle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-w360dp\dimens.xml" qualifiers="w360dp-v13"><dimen name="dialog_padding">25dp</dimen></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-w480dp\dimens.xml" qualifiers="w480dp-v13"><dimen name="dialog_padding">36dp</dimen></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-w500dp\dimens.xml" qualifiers="w500dp-v13"><dimen name="dialog_padding">64dp</dimen></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-w600dp\dimens.xml" qualifiers="w600dp-v13"><dimen name="dialog_padding">90dp</dimen></file><file path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\main\res\values-w720dp\dimens.xml" qualifiers="w720dp-v13"><dimen name="dialog_padding">120dp</dimen></file></source><source path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\build\generated\res\rs\debug"/><source path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\library\src\debug\res"/></dataSet><mergedItems/></merger>

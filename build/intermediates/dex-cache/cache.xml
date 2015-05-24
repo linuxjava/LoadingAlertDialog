@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\guochang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-98666a838f34fb22fc73b06ee4e81f48fb87bca1.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\exploded-aar\NiftyDialogEffects-master\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="42128f963805afd63d9f6870134ebf813e7a610b">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\pre-dexed\debug\classes-862e38146d79aaac70dedfac6fa85f8302696aae.jar" />
+    </item>
+
+</items>

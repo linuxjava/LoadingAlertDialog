@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <corners android:radius="2dp" />
+    <solid android:color="@color/btn_press_color" />
+</shape><!-- From: file:/E:/Android/Workspace/Studio_Pro/OpenSource/NiftyDialogEffects-master/library/src/main/res/drawable/btn_press.xml --><!-- From: file:/E:/Android/Workspace/Studio_Pro/OpenSource/NiftyDialogEffects-master/library/build/intermediates/bundles/debug/res/drawable/btn_press.xml -->

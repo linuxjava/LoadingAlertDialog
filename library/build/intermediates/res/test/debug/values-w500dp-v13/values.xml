@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Android/Workspace/Studio_Pro/OpenSource/NiftyDialogEffects-master/library/build/intermediates/bundles/debug/res/values-w500dp-v13/values.xml -->
+    <eat-comment/>
+    <dimen name="dialog_padding">64dp</dimen>
+</resources>
