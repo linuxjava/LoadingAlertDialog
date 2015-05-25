@@ -2,18 +2,88 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\guochang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-98666a838f34fb22fc73b06ee4e81f48fb87bca1.jar" />
+        revision="22.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\classes-9b9579acd318daf48d0648b88519f6445c1abe4a.jar" />
     </item>
     <item
-        jar="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\exploded-aar\NiftyDialogEffects-master\library\unspecified\classes.jar"
+        jar="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\exploded-aar\LoadingAlertDialog\loadingAlertDialog\unspecified\classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="42128f963805afd63d9f6870134ebf813e7a610b">
-        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\NiftyDialogEffects-master\app\build\intermediates\pre-dexed\debug\classes-862e38146d79aaac70dedfac6fa85f8302696aae.jar" />
+        revision="22.0.0"
+        sha1="525469332341aedbae2be26d1d0cffd77a59fb3c">
+        <dex dex="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\pre-dexed\debug\classes-b762fc782a8e7a34b76d8122a7372cb24a5b64bd.jar" />
+    </item>
+    <item
+        jar="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-193a522167c511ba980dc5d22562133cfc81bea8.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\classes-0d46636b9cf12d54aa4c8b2c1f860fb833d0637a.jar" />
+    </item>
+    <item
+        jar="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\pre-dexed\debug\classes-d3b5fd76643cada030d3e40348651007c04145f8.jar" />
+    </item>
+    <item
+        jar="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\pre-dexed\debug\classes-d4c12ae4cd6a735cba277816f6b79eb1a468a780.jar" />
+    </item>
+    <item
+        jar="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="E:\Repo\Git\LoadingAlertDialog\app\build\intermediates\pre-dexed\debug\classes-dc895e0b0ca552ea5105eb44debce3c0539a424f.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\exploded-aar\NiftyDialogEffects\niftydialogeffectslib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="087825f940a37b48aa2f322af361c5fdaabefe91">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\classes-437246d1928bac1d1169a78c6102131be4abdea7.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\classes-92a5380021996e9f82677a2529528633b0f770fa.jar" />
+    </item>
+    <item
+        jar="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-d8683543293d28c89fface11f5370cbad84cbcbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\guochang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\library-2.4.0-98666a838f34fb22fc73b06ee4e81f48fb87bca1.jar" />
+    </item>
+    <item
+        jar="E:\Android\DevelopTools\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\Android\Workspace\Studio_Pro\OpenSource\Dialog\NiftyDialogEffects\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-ef4f34395cd0dc2a0436e0188277533c2c5ff739.jar" />
     </item>
 
 </items>

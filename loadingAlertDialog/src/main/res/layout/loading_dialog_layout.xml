@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_loading_bg"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="15.0dp"
+        android:paddingTop="15.0dp">
+
+        <FrameLayout
+            android:layout_width="50.0dp"
+            android:layout_height="50.0dp">
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                style="?android:attr/progressBarStyleInverse"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:indeterminate="false"
+                android:indeterminateDrawable="@drawable/loading_animate"
+                android:indeterminateBehavior="repeat"
+                android:indeterminateOnly="true"/>
+
+            <com.pnikosis.materialishprogress.ProgressWheel
+                android:id="@+id/progressWheel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                wheel:progressIndeterminate="true"
+                android:layout_gravity="center"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/msg_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="14.0sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

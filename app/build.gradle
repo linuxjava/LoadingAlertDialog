@@ -1,13 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 20
-    buildToolsVersion '19.1.0'
+    compileSdkVersion 22
+    buildToolsVersion "22.0.0"
+
     defaultConfig {
+        applicationId "com.example.guochang.niftydialogeffects"
         minSdkVersion 10
-        targetSdkVersion 19
+        targetSdkVersion 22
         versionCode 1
-        versionName '1.0'
+        versionName "1.0"
     }
     buildTypes {
         release {
@@ -15,12 +17,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    lintOptions {
-        abortOnError false
-    }
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile project(':library')
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':loadingAlertDialog')
 }

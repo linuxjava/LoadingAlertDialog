@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NiftyDialogEffects-master.iml" filepath="$PROJECT_DIR$/NiftyDialogEffects-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoadingAlertDialog.iml" filepath="$PROJECT_DIR$/LoadingAlertDialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadingAlertDialog/loadingAlertDialog.iml" filepath="$PROJECT_DIR$/loadingAlertDialog/loadingAlertDialog.iml" />
     </modules>
   </component>
 </project>
